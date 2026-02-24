@@ -20,14 +20,6 @@ This challenge is a step toward becoming a *Software Engineer and AI/ML Engineer
 
 ---
 
-## 🛠️ Tech Stack
-
-- Java  
-- HTML  
-- GitHub  
-
----
-
 ## 📂 Project List
 
 | Day | Project Name | Description | Status |

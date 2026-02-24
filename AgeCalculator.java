@@ -1,37 +1,59 @@
-/*Age calculator- input-> birth date,month,year
-                   output -> age in years, months, days*/
-import java.util.Scanner;
 import java.time.LocalDate;
-import java.time.Period;  //to calculate period between two values
+import java.time.Period;
+import java.util.Scanner;
 
-public class Main{
-  public static void main(String [] args){
-   Scanner obj = new Scanner(System.in);
-   
-   System.out.println("Date of birth(DD/MM/yyyy): ");
-   System.out.print("Date: ");
-   int birthDate = obj.nextInt();
-   System.out.print("Month: ");
-   int birthMon = obj.nextInt();
-   System.out.print("Year: ");
-   int birthYear = obj.nextInt();
-   
-   System.out.println("Age at the date of (DD/MM/yyyy): ");
-   System.out.print("Date: ");
-   int currDate = obj.nextInt();
-   System.out.print("Month: ");
-   int currMon = obj.nextInt();
-   System.out.print("Year: ");
-   int currYear = obj.nextInt();
-   
-   LocalDate date = LocalDate.now();
-   LocalDate birth = LocalDate.of(birthYear,birthMon,birthDate);
-   LocalDate curr = LocalDate.of(currYear,currMon,currDate);
-   
-   int years = Period.between(birth,curr).getYears();
-   int months = Period.between(birth,curr).getMonths();
-   int days = Period.between(birth,curr).getDays();
-   System.out.println("Age: ");
-   System.out.println(years +"Years\t"+ months+ "Months\t"+ days+ "Days");
-  }
+public class AgeCalculator 
+{
+     public static void main(String[] args) 
+  {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("AGE CALCULATOR");
+
+        System.out.print("Enter your birth year (YYYY): ");
+        int year = sc.nextInt();
+
+        System.out.print("Enter your birth month (MM): ");
+        int month = sc.nextInt();
+
+        System.out.print("Enter your birth day (DD): ");
+        int day = sc.nextInt();
+
+        LocalDate birthDate = LocalDate.of(year, month, day);
+        LocalDate currentDate = LocalDate.now();
+
+        if (birthDate.isAfter(currentDate)) 
+        {
+            System.out.println("Invalid Date of Birth! It is in the future.");
+        } 
+        else 
+        {
+            Period age = Period.between(birthDate, currentDate);
+
+            System.out.println("\n YOUR AGE ");
+            System.out.println("Years  : " + age.getYears());
+            System.out.println("Months : " + age.getMonths());
+            System.out.println("Days   : " + age.getDays());
+        }
+    
+        sc.close();
+    }
 }
+
+
+
+
+
+/* Java Age Calculator 🎂
+
+This is a simple Java console application that calculates age based on the user's date of birth.
+
+---
+
+# Features
+
+- Takes user input (Year, Month, Day)
+- Uses Java `LocalDate` and `Period`
+- Validates future dates
+- Displays age in Years, Months, and Days */

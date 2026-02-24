@@ -16,7 +16,7 @@ This challenge is a step toward becoming a *Software Engineer and AI/ML Engineer
 ## 📅 Challenge Duration
 
 *Start Date:* 24/02/2006  
-*End Date:* DD/MM/YYYY  
+*End Date:* 11/03/2026  
 
 ---
 

@@ -24,8 +24,8 @@ This challenge is a step toward becoming a *Software Engineer and AI/ML Engineer
 
 | Day | Project Name | Description | Status |
 |-----|-------------|------------|--------|
-| Day 1 | AgeCalculator | This program efficiently calculates a person's exact age in years, months, and days using Java’s built-in LocalDate and Period classes. It demonstrates practical usage of Java's Date-Time API introduced in Java 8.  | 24/02/2026 |
-| Day 2 |  |  | ⏳ Pending |
+| Day 1 | Age-Calculator | This program efficiently calculates a person's exact age in years, months, and days using Java’s built-in LocalDate and Period classes. It demonstrates practical usage of Java's Date-Time API introduced in Java.  | 24/02/2026 |
+| Day 2 | Math-Calculator | This is a simple calculator program written in Java. It performs basic arithmetic operations like: Addition (+) , Subtraction (−) , Multiplication (*) , Division (/) | 25/02/2026 |
 | Day 3 |  |  | ⏳ Pending |
 | Day 4 |  |  | ⏳ Pending |
 | Day 5 |  |  | ⏳ Pending |

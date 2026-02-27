@@ -1,8 +1,10 @@
 import java.util.Scanner;
 
-public class StudentGradeCalculator {
+public class StudentGradeCalculator 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         Scanner sc = new Scanner(System.in);
 

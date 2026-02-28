@@ -27,8 +27,8 @@ This challenge is a step toward becoming a *Software Engineer and AI/ML Engineer
 | Day 1 | Age-Calculator | This program efficiently calculates a person's exact age in years, months, and days using Java’s built-in LocalDate and Period classes. It demonstrates practical usage of Java's Date-Time API introduced in Java.  | 24/02/2026 |
 | Day 2 | Math-Calculator | This is a simple calculator program written in Java. It performs basic arithmetic operations like: Addition (+) , Subtraction (−) , Multiplication (*) , Division (/) | 25/02/2026 |
 | Day 3 | ATM-Simulator | This is a basic ATM Simulator program developed using Java. The program allows the user to: - Check account balance - Deposit money - Withdraw money. It uses simple `if-else` conditions and `Scanner` class for user input.  | 26/02/2026 |
-| Day 4 | Student-Grade | his is a simple Java program that calculates total marks, percentage, and grade of a student | 27/02/2026 |
-| Day 5 | Mini E-Commerce Cart   | This is a simple Java console-based Mini E-Commerce Cart system. Users can: - Add products, View cart items, Checkout and see total bill, Exit the application | 28/02/2026 |
+| Day 4 | Student-Grade | This is a simple Java program that calculates total marks, percentage, and grade of a student | 27/02/2026 |
+| Day 5 | Mini E-Commerce Cart   | This is a simple Java console-based Mini E-Commerce Cart system.  Users can: - Add products, View cart items, Checkout and see total bill, Exit the application | 28/02/2026 |
 | Day 6 |  |  | ⏳ Pending |
 | Day 7 |  |  | ⏳ Pending |
 | Day 8 |  |  | ⏳ Pending |

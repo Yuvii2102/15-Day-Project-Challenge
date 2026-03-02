@@ -30,7 +30,7 @@ This challenge is a step toward becoming a *Software Engineer and AI/ML Engineer
 | Day 4 | Student-Grade | This is a simple Java program that calculates total marks, percentage, and grade of a student | 27/02/2026 |
 | Day 5 | Mini E-Commerce Cart   | This is a simple Java console-based Mini E-Commerce Cart system.  Users can: - Add products, View cart items, Checkout and see total bill, Exit the application | 28/02/2026 |
 | Day 6 | Password Strength Checker   | This Java program checks the strength of a password. Features: - Check minimum length (8 characters), uppercase letters, lowercase letters, numbers, special characters, Classifies password as Weak, Medium, or Strong | 01/03/2026 |
-| Day 7 |  |  | ⏳ Pending |
+| Day 7 | Expense- Tracker  | This is a simple Java console-based Expense Tracker. Users can: - Add expenses, View all expenses, See total spending  | 02/03/2026 |
 | Day 8 |  |  | ⏳ Pending |
 | Day 9 |  |  | ⏳ Pending |
 | Day 10 |  |  | ⏳ Pending |

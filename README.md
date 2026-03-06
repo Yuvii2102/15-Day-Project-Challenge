@@ -34,7 +34,7 @@ This challenge is a step toward becoming a *Software Engineer and AI/ML Engineer
 | Day 8 | Basic To-Do-List | This is a simple Java console-based To-Do List application. Users can:- Add tasks , View tasks , Remove tasks , Exit program | 03/03/2026 |
 | Day 9 | Quiz-Applications | This is a simple Java console-based Quiz Application. The program asks multiple-choice questions and calculates the user's score based on correct answers. | 04/03/2026 |
 | Day 10 | Car-Rental-System | This is a simple Java console-based Car Rental System. Users can select a car and enter the number of days to calculate the total rental price. | 05/03/2026 |
-| Day 11 |  |  | ⏳ Pending |
+| Day 11 | Bank-Management-System  | This is a simple Java console-based Bank Management System. Users can: Check account balance, Deposit money, Withdraw money, Exit the system | 06/03/2026 |
 | Day 12 |  |  | ⏳ Pending |
 | Day 13 |  |  | ⏳ Pending |
 | Day 14 |  |  | ⏳ Pending |

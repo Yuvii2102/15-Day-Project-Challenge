@@ -80,5 +80,21 @@ The program allows a user to choose different ice cream flavors, enter the quant
 - `do-while` loop
 - Basic arithmetic operations
 
-## Example Output
+  ## Example Output
 
+   ICE CREAM SHOP 
+
+* Cherry Icecream - 45
+
+* Pineapple Icecream - 35
+
+* Vanilla Icecream - 45
+
+- Exit
+
+Enter your choice: 1
+Enter quantity: 2
+Item Total: 90
+Current Bill: 90
+
+Final Bill = 90

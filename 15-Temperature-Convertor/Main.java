@@ -51,3 +51,11 @@ public class Main
         sc.close();
     }
 }
+
+ TEMPERATURE CONVERTER 
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+
+Enter choice: 1
+Enter temperature in Celsius: 25
+Temperature in Fahrenheit: 77.0

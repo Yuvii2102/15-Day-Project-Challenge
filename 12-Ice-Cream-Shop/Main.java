@@ -50,3 +50,35 @@ public class IceCreamShop
         System.out.println("Final Bill = " + total);
     }
 }
+
+# Ice Cream Shop Billing System 🍦
+
+This is a simple Java console-based Ice Cream Shop billing system.
+
+The program allows a user to choose different ice cream flavors, enter the quantity, and calculate the total bill.
+
+## Menu
+
+1. Cherry Ice Cream – 45  
+2. Pineapple Ice Cream – 35  
+3. Vanilla Ice Cream – 45  
+4. Exit
+
+## Features
+
+- Displays ice cream menu
+- Allows user to select an item
+- Accepts quantity of ice cream
+- Calculates item total and running bill
+- Displays final bill when the user exits
+
+## Concepts Used
+
+- Java Basics
+- `Scanner` class for user input
+- `switch` statement
+- `do-while` loop
+- Basic arithmetic operations
+
+## Example Output
+

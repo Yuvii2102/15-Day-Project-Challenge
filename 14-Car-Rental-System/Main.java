@@ -47,3 +47,30 @@ public class Main
         sc.close();
     }
 }
+
+
+# Car Rental System 🚗
+
+This is a simple Java console-based Car Rental System.
+
+Users can select a car and enter the number of rental days to calculate the total price.
+
+## Available Cars
+1. Swift – ₹2000 per day
+2. Innova – ₹4000 per day
+3. BMW – ₹8000 per day
+
+## Features
+- Select a car
+- Enter rental days
+- Calculate total cost
+
+## Concepts Used
+- Java Basics
+- Scanner class
+- Conditional statements
+- Arithmetic operations
+
+Author: Yuvraj (Yuvi)
+
+Part of my Java Mini Project Challenge 🚀
